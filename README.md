@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-kunwar&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-kunwar" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Python**
 
 - ⚡ Fun fact **curious**
 
